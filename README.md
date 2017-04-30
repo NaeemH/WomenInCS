@@ -16,7 +16,7 @@ A research report on improving the retention and participation rates of women in
 
 - Peer Reviews: Building blocks to final proposal
 
-- Final proposal: A 25-page document (single-spaced) to a mock Google rep. that details the root, systemic problems regarding the lack of women in tech. My research project over the course of the Spring 2017 semester, and my personal project as the Rutgers USACS Diversity Chair. 
+- Final proposal: A 25-page document (single-spaced) to a mock Google rep. that details the root, systemic problems regarding the lack of women in tech, and proposes a solution via instructional computer science courses at a local middle and high school. My research project over the course of the Spring 2017 semester, and my personal project as the Rutgers USACS Diversity Chair. 
 
 Brief thanks to Tanya Balaraju, Diana Kris, Sakib Jalal, and Sara-Ann Stanway. This paper would not have been possible without the help of these lovely individuals.
 
